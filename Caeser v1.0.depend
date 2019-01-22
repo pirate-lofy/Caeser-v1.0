@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1545841627 source:d:\projects\chess project\caeser\caeser v1.0\attack.c
+	"stdio.h"
+	"defs.h"
+
+1545842792 d:\projects\chess project\caeser\caeser v1.0\defs.h
+	"stdlib.h"
+	"stdio.h"
+
+1545841627 source:d:\projects\chess project\caeser\caeser v1.0\bitboard.c
+	"stdio.h"
+	"defs.h"
+
+1545841627 source:d:\projects\chess project\caeser\caeser v1.0\board.c
+	"stdio.h"
+	"defs.h"
+
+1545841627 source:d:\projects\chess project\caeser\caeser v1.0\data.c
+	"defs.h"
+
+1545842537 source:d:\projects\chess project\caeser\caeser v1.0\init.c
+	"defs.h"
+	"stdio.h"
+	"stdlib.h"
+
+1545841843 source:d:\projects\chess project\caeser\caeser v1.0\io.c
+	"stdio.h"
+	"defs.h"
+
+1546354920 source:d:\projects\chess project\caeser\caeser v1.0\main.c
+	"stdio.h"
+	"defs.h"
+	"stdlib.h"
+	"string.h"
+
+1545841843 source:d:\projects\chess project\caeser\caeser v1.0\makemove.c
+	"defs.h"
+	"stdio.h"
+
+1545841843 source:d:\projects\chess project\caeser\caeser v1.0\misc.c
+	"stdio.h"
+	"defs.h"
+	"windows.h"
+	"sys/time.h"
+	"sys/select.h"
+	"unistd.h"
+	"string.h"
+
+1545841947 source:d:\projects\chess project\caeser\caeser v1.0\movegen.c
+	"stdio.h"
+	"defs.h"
+
+1545841947 source:d:\projects\chess project\caeser\caeser v1.0\perf.c
+	"defs.h"
+	"stdio.h"
+
+1545845081 source:d:\projects\chess project\caeser\caeser v1.0\polybook.c
+	"defs.h"
+	"polykeys.h"
+
+1545842412 d:\projects\chess project\caeser\caeser v1.0\polykeys.h
+
+1545842412 source:d:\projects\chess project\caeser\caeser v1.0\polykeys.c
+	"defs.h"
+	"polykeys.h"
+
+1545842412 source:d:\projects\chess project\caeser\caeser v1.0\pvtable.c
+	"stdio.h"
+	"defs.h"
+
+1545842412 source:d:\projects\chess project\caeser\caeser v1.0\search.c
+	"stdio.h"
+	"defs.h"
+
+1546354844 source:d:\projects\chess project\caeser\caeser v1.0\uci.c
+	"stdio.h"
+	"defs.h"
+	"string.h"
+
+1545842412 source:d:\projects\chess project\caeser\caeser v1.0\validate.c
+	"defs.h"
+	"stdio.h"
+	"string.h"
+
+1545842818 source:d:\projects\chess project\caeser\caeser v1.0\xboard.c
+	"stdio.h"
+	"defs.h"
+	"string.h"
+
+1545842510 source:d:\projects\chess project\caeser\caeser v1.0\evaluate.c
+	"stdio.h"
+	"defs.h"
+
+1545842510 source:d:\projects\chess project\caeser\caeser v1.0\hashkeys.c
+	"stdio.h"
+	"defs.h"
+

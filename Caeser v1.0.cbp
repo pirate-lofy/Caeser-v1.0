@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Caeser v1.0" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Caeser v1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Caeser v1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="attack.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="bitboard.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="board.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="data.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="defs.h" />
+		<Unit filename="evaluate.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="hashkeys.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="init.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="io.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="makemove.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="misc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="movegen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="perf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="polybook.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="polykeys.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="polykeys.h" />
+		<Unit filename="pvtable.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="search.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="uci.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="validate.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="xboard.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
